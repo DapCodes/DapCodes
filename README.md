@@ -1,5 +1,3 @@
-# Halo, I'm Daffa! 👋  
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DapCodes&layout=compact&theme=dark)  
 
 
