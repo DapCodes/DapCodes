@@ -9,19 +9,27 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **Laravel**
-- 📫 Reach me at **daffaramadhan929@gmail.com**
-
-<p align="left">
-  <a href="https://github.com/DapCodes"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:daffaramadhan929@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DapCodes&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td>
+      - 🌱 Currently learning **Laravel**  
+      - 📫 Reach me at **daffaramadhan929@gmail.com**  
+      
+      <p align="left">
+        <a href="https://github.com/DapCodes"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+        <a href="mailto:daffaramadhan929@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+      </p>
+    </td>
+    <td>
+      <p align="right">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DapCodes&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ### 📊 GitHub Stats
 
