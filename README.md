@@ -15,30 +15,14 @@
   📫 Reach me at <strong>daffaramadhan929@gmail.com</strong>
 </p>
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DapCodes&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DapCodes&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DapCodes&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="left">
   <a href="https://github.com/DapCodes"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:daffaramadhan929@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-
-
----
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DapCodes&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DapCodes" alt="GitHub Streak" />
 </p>
 
 ---
