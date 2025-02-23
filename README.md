@@ -8,14 +8,14 @@
 
 ---
 
-### 🚀 About Me
+<h3 align="center">🚀 About Me</h3>
 
 <p align="left">
   🌱 Currently learning <strong>Laravel</strong> <br>
   📫 Reach me at <strong>daffaramadhan929@gmail.com</strong>
 </p>
 
-### 🚀 Languages and Tools:
+### Languages and Tools:
 
 <p align="center">
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
