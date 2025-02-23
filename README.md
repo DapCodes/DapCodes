@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![MasterHead](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
 <h1 align="center">Hi, I'm Daffa Ramadhan 👋</h1>
 <h3 align="center">A passionate developer from Indonesia, currently exploring Laravel and Go.</h3>
