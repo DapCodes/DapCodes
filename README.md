@@ -1,17 +1,15 @@
-![MasterHead](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/DapCodes)
 
 <h1 align="center">Hi, I'm Daffa Ramadhan 👋</h1>
-<h3 align="center">A passionate developer from Indonesia, currently exploring Laravel and Go.</h3>
+<h3 align="center">A passionate website developer from Indonesia</h3>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DapCodes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandysptra09&label=Profile%20views&color=0e75b6&style=flat" alt="sandysptra09" /> </p>
 
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **Laravel and Go**
+- 🌱 Currently learning **Laravel**
 - 📫 Reach me at **daffaramadhan929@gmail.com**
 
 ---
