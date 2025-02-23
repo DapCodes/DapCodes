@@ -3,6 +3,11 @@
 <h1 align="center">Hi, I'm Daffa Ramadhan 👋</h1>
 <h3 align="center">A passionate developer from Indonesia, currently exploring Laravel and Go.</h3>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DapCodes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ### 🚀 About Me
