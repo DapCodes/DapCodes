@@ -16,8 +16,8 @@
 ### Languages and Tools:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,figma,php,laravel,git,github,gitlab" />
-    <img src="https://skillicons.dev/icons?i=react,mysql,postman,vue,go" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,go,sass,tailwind,bootstrap,figma,laravel,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=react,mysql,vue" /><br>
 </div>
 <br>
 
