@@ -5,8 +5,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Daffa+Ramadhan!;" />
 </h1>
 <h3 align="center">A passionate website developer from Indonesia. Focusing on frontend develover,<br> and maybe little bit learn backend :D. </h3>
-
-<p align="left">
+<br>
+<p align="center">
   🌱 Currently learning <strong>Framework Js and PHP</strong> <br>
   📫 Reach me at <strong>daffaramadhan929@gmail.com</strong>
 </p>
