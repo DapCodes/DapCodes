@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,figma,php,laravel,git,github,gitlab" />
     <img src="https://skillicons.dev/icons?i=react,mysql,postman,vue,go" /><br>
 </div>
-
+<br>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DapCodes&show_icons=true&locale=en" alt="GitHub Stats" />
