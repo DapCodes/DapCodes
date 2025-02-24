@@ -1,14 +1,10 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/DapCodes)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DapCodes&label=Profile%20views&color=0e75b6&style=flat" alt="DapCodes" /> </p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Daffa+Ramadhan!;" />
 </h1>
 <h3 align="center">A passionate website developer from Indonesia</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DapCodes&label=Profile%20views&color=0e75b6&style=flat" alt="DapCodes" /> </p>
-
----
 
 <h3 align="center">🚀 About Me</h3>
 
