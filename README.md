@@ -2,7 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DapCodes&label=Profile%20views&color=0e75b6&style=flat" alt="DapCodes" /> </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Daffa+Ramadhan!;+I'm+WebDev+:D;&color=FFFFFF&background=000000" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Daffa+Ramadhan!;+I'm+WebDev+:D;&color=FFFFFF&background=222222&vCenter=true&width=600" 
+    style="border-radius: 12px; padding: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);"/>
 </h1>
 
 <h3 align="center">A passionate website developer from Indonesia. Focusing on frontend,<br> and maybe little bit learn backend :D. </h3>
