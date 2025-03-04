@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DapCodes&label=Profile%20views&color=0e75b6&style=flat" alt="DapCodes" /> </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Daffa+Ramadhan!;+I'm+WebDev+:D;&color=008080" 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Daffa+Ramadhan!;+I'm+WebDev+💻;&color=008080" 
     style="border-radius: 12px; padding: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);"/>
 </h1>
 
@@ -31,4 +31,3 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DapCodes&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/DapCodes)
  
 </div>
----
