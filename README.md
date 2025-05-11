@@ -6,7 +6,7 @@
     style="border-radius: 12px; padding: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);"/>
 </h1>
 
-<h3 align="center">A passionate website developer from Indonesia. Focusing on frontend,<br> and maybe little bit learn backend :D. </h3>
+<h3 align="center">A passionate website developer from Indonesia. Focusing on Backend :D. </h3>
 <br>
 <p align="center">
   🌱 Currently learning <strong>Framework Js and PHP</strong> <br>
