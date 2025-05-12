@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DapCodes">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBpZzdkd3J1cjJuc2ZjNXp5N2RwbjMyMGFmZW8zZ2xyNWhsY242MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="MasterHead" width="100%" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpveWxjOGU4dnR3NGV5eGlxODFrbnoyOGc0aGx0bm9wZ3l3eGw2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" alt="MasterHead" width="100%" />
   </a>
 </p>
 
