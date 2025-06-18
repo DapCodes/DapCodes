@@ -16,7 +16,6 @@
 </p>
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,go,sass,tailwind,bootstrap,laravel,react" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,vue,git,github,gitlab,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,go,sass,tailwind,bootstrap,laravel,chartjs,bulma,react,mysql,vue,git,github,gitlab,figma" /><br>
 </div>
 
