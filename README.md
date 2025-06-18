@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/daffa-ramadhan-3b2239335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sndysptra" height="30" width="40" /></a>
 <a href="https://instagram.com/d4pfft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_snchie._" height="30" width="40" /></a>
 </p>
-
+<br>
 <div>
   <img width="100%" src="https://skillicons.dev/icons?i=html,css,javascript,php,go,sass,tailwind,bootstrap,laravel,react,mysql,vue,nodejs,git,github,gitlab,figma,chartjs" />
 </div>
