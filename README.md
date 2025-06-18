@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emM1MWphZG5sYzFsYmpiM3NnaTRxY3c0bWVjZHI1emIxaTR2N3FqdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zP6JaovsjxSEg/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9senlvZ3Uwbm13MDF5OHZsOWM0ajE3YjkxanRqZ2x2MGQyNGR2eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DapCodes&label=Profile%20views&color=0e75b6&style=flat" alt="DapCodes" /> </p>
 
 - 🌱 I’m currently learning **Laravel** and expanding into **JavaScript Frameworks**
