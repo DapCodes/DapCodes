@@ -16,6 +16,6 @@
 </p>
 <br>
 <div>
-  <img width="100%" src="https://skillicons.dev/icons?i=html,css,javascript,php,go,sass,tailwind,bootstrap,laravel,react,mysql,vue,nodejs,gitlab,figma,chartjs" />
+  <img width="80%" src="https://skillicons.dev/icons?i=html,css,javascript,php,go,sass,tailwind,bootstrap,laravel,react,mysql,vue,nodejs,gitlab,figma,chartjs" />
 </div>
 
