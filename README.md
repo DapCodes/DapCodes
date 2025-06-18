@@ -15,3 +15,8 @@
 <a href="https://instagram.com/d4pfft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_snchie._" height="30" width="40" /></a>
 </p>
 
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,go,sass,tailwind,bootstrap,laravel,react" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,vue,git,github,gitlab,figma" /><br>
+</div>
+
