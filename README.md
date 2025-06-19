@@ -16,6 +16,26 @@
 </p>
 <br>
 <br>
-<div align="center" width="100%">
-  <img width="60%" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,javascript,react,vue,figma,php,go,nodejs,laravel,kubernetes,docker,mysql,sqlite,supabase,gitlab" />
+
+<div align="center" style="white-space: nowrap; overflow-x: auto;">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=sass" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=vue" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=go" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=laravel" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=supabase" />
+  <img src="https://skillicons.dev/icons?i=gitlab" />
 </div>
+
