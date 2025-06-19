@@ -17,7 +17,7 @@
 <br>
 <br>
 <p align="center">
-  <img width="75%" src="https://skillicons.dev/icons?i=html" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" />&nbsp;
   <img src="https://skillicons.dev/icons?i=css" />&nbsp;
   <img src="https://skillicons.dev/icons?i=sass" />&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" />&nbsp;
@@ -36,6 +36,7 @@
   <img src="https://skillicons.dev/icons?i=sqlite" />&nbsp;
   <img src="https://skillicons.dev/icons?i=supabase" />&nbsp;
   <img src="https://skillicons.dev/icons?i=gitlab" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" />&nbsp;
 </p>
 
 
