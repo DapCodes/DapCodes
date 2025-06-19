@@ -11,12 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/daffa-ramadhan-3b2239335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sndysptra" height="30" width="40" /></a>
-<a href="https://instagram.com/d4pfft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_snchie._" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daffa-ramadhan-3b2239335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DapCodes" height="30" width="40" /></a>
+<a href="https://instagram.com/d4pfft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d4pfft" height="30" width="40" /></a>
 </p>
 <br>
 <br>
 <div align="center">
-  <img width="75%" src="https://skillicons.dev/icons?i=html,css,javascript,php,go,sass,tailwind,bootstrap,laravel,react,mysql,vue,nodejs,gitlab,figma,chartjs" />
+<img width="75%" src="https://skillicons.dev/icons?i=html,css,javascript,php,go,sass,tailwind,bootstrap,laravel,react,mysql,vue,nodejs,gitlab,figma,chartjs,docker,frankenphp" />
 </div>
 
