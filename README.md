@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=php" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=go" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=laravel" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=laravel" /> <br>
   <img src="https://skillicons.dev/icons?i=kubernetes" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;&nbsp;
