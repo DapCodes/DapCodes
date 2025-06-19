@@ -17,6 +17,10 @@
 <br>
 <br>
 <div align="center">
-<img width="100%" src="https://skillicons.dev/icons?i=html,css,javascript,php,go,sass,tailwind,bootstrap,laravel,react,vue,nodejs,kubernetes,docker,mysql,sqlite,supabase,gitlab,figma" />
+  <img width="75%" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,javascript,react,vue,figma" />
 </div>
+<div align="center">
+  <img width="75%" src="https://skillicons.dev/icons?i=php,go,nodejs,laravel,kubernetes,docker,mysql,sqlite,supabase,gitlab" />
+</div>
+
 
