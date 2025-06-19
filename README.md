@@ -17,7 +17,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" />&nbsp;
+  <img width="75%" src="https://skillicons.dev/icons?i=html" />&nbsp;
   <img src="https://skillicons.dev/icons?i=css" />&nbsp;
   <img src="https://skillicons.dev/icons?i=sass" />&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" />&nbsp;
