@@ -38,8 +38,4 @@
   <img src="https://skillicons.dev/icons?i=gitlab" />&nbsp;
   <img src="https://skillicons.dev/icons?i=git" />&nbsp;
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DapCodes&layout=compact&theme=tokyonight&show_icons=true" />
-</p>
-
 
