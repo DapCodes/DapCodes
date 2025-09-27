@@ -7,7 +7,7 @@
   
 - 🧠 I’m also exploring **UI/UX design** and pixel-perfect front-end development
   
-- 📫 Feels free to contct me: **daffaramadhan929@gmail.com**
+- 📫 Feel free to contact me at: **daffaramadhan929@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
