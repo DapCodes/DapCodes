@@ -39,4 +39,5 @@
   <img src="https://skillicons.dev/icons?i=git" />&nbsp;
 </p>
 
-<img src="https://raw.githubusercontent.com/dapcodes/dapcodes/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DapCodes/DapCodes/output/snake.svg" alt="Snake animation" />
+
