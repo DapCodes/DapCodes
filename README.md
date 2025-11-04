@@ -41,7 +41,7 @@
           <img src="https://skillicons.dev/icons?i=php" />&nbsp;
           <img src="https://skillicons.dev/icons?i=go" />&nbsp;
           <img src="https://skillicons.dev/icons?i=nodejs" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=laravel" /> <br>
+          <img src="https://skillicons.dev/icons?i=laravel" />
           <img src="https://skillicons.dev/icons?i=kubernetes" />&nbsp;
           <img src="https://skillicons.dev/icons?i=docker" />&nbsp;
           <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;
