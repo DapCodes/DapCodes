@@ -16,40 +16,21 @@
 </p>
 <br>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3 align="center">🛠️ Tech Stack</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=html" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=css" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=sass" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=tailwind" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=bootstrap" />&nbsp;<br>
-        <img src="https://skillicons.dev/icons?i=javascript" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=react" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=vue" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=figma" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=php" />&nbsp;<br>
-        <img src="https://skillicons.dev/icons?i=go" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=nodejs" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=laravel" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=kubernetes" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=docker" />&nbsp;<br>
-        <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=sqlite" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=supabase" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=gitlab" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=git" />
-      </p>
-    </td>
-    <td valign="top" width="50%">
+<table border="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td valign="center" width="35%" style="border: none;">
       <h3 align="center">📊 GitHub Stats</h3>
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=DapCodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%"/>
       </p>
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DapCodes&layout=compact&theme=tokyonight" alt="Top Languages" width="100%"/>
+      </p>
+    </td>
+    <td valign="center" width="65%" style="border: none;">
+      <h3 align="center">🛠️ Tech Stack</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,javascript,react,vue,figma,php,go,nodejs,laravel,kubernetes,docker,mysql,sqlite,supabase,gitlab,git&perline=7" />
       </p>
     </td>
   </tr>
