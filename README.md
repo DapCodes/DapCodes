@@ -29,7 +29,7 @@
     </td>
     <td valign="center" width="65%" style="border: none;">
       <h3 align="center">🛠️ Tech Stack</h3>
-      <p align="center">
+      <p align="right">
         <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,javascript,react,vue,figma,php,go,nodejs,laravel,kubernetes,docker,mysql,sqlite,supabase,gitlab,git&perline=7" />
       </p>
     </td>
