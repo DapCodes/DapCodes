@@ -19,7 +19,6 @@
 <table border="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td valign="center" width="35%" style="border: none;">
-      <h3 align="center">📊 GitHub Stats</h3>
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=DapCodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%"/>
       </p>
@@ -28,9 +27,9 @@
       </p>
     </td>
     <td valign="center" width="65%" style="border: none;">
-      <h3 align="center">🛠️ Tech Stack</h3>
-      <p align="right">
-        <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,javascript,react,vue,figma,php,go,nodejs,laravel,kubernetes,docker,mysql,sqlite,supabase,gitlab,git&perline=7" />
+      <h3 align="center">Tech Stack</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,javascript,react,vue,figma,php,go,nodejs,laravel,kubernetes,docker,mysql,sqlite,supabase,gitlab,git&perline=8" />
       </p>
     </td>
   </tr>
