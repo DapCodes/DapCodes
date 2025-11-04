@@ -41,3 +41,28 @@
 
 <img src="https://raw.githubusercontent.com/DapCodes/DapCodes/output/snake.svg" alt="Snake animation" />
 
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DapCodes&theme=radical&no-frame=false&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DapCodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DapCodes&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DapCodes&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+### 🌐 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DapCodes&bg_color=0d1117&color=79fe96&line=79fe96&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
