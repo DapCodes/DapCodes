@@ -51,7 +51,9 @@
           <img src="https://skillicons.dev/icons?i=git" />&nbsp;
         </p>
     </td>
+    <td>
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DapCodes&" alt="DapCodes" /></p>
+    </td>
   </tr>
 </table>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DapCodes&" alt="DapCodes" /></p>
 <img src="https://raw.githubusercontent.com/DapCodes/DapCodes/output/snake.svg" alt="Snake animation" />
