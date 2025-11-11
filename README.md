@@ -37,7 +37,7 @@
           <img src="https://skillicons.dev/icons?i=figma" />&nbsp;
           <img src="https://skillicons.dev/icons?i=php" />&nbsp;
           <img src="https://skillicons.dev/icons?i=go" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=adonisjs" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=adonis" />&nbsp;
           <img src="https://skillicons.dev/icons?i=laravel" />&nbsp;
           <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;
           <img src="https://skillicons.dev/icons?i=sqlite" />&nbsp;
