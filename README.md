@@ -50,8 +50,6 @@
           <img src="https://skillicons.dev/icons?i=gitlab" />&nbsp;
           <img src="https://skillicons.dev/icons?i=git" />&nbsp;
         </p>
-    </td>
-    <td>
       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DapCodes&" alt="DapCodes" /></p>
     </td>
   </tr>
