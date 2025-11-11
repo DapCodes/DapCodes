@@ -27,7 +27,6 @@
       </p>
     </td>
     <td valign="center" width="60%" style="border: none;">
-      <h3 align="center">Tech Stack</h3>
         <p align="center">
           <img src="https://skillicons.dev/icons?i=html" />&nbsp;
           <img src="https://skillicons.dev/icons?i=css" />&nbsp;
@@ -35,15 +34,11 @@
           <img src="https://skillicons.dev/icons?i=tailwind" />&nbsp;
           <img src="https://skillicons.dev/icons?i=bootstrap" />&nbsp;  
           <img src="https://skillicons.dev/icons?i=javascript" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=react" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=vue" />&nbsp;
           <img src="https://skillicons.dev/icons?i=figma" />&nbsp;
           <img src="https://skillicons.dev/icons?i=php" />&nbsp;
           <img src="https://skillicons.dev/icons?i=go" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=nodejs" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=adonisjs" />&nbsp;
           <img src="https://skillicons.dev/icons?i=laravel" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=kubernetes" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=docker" />&nbsp;
           <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;
           <img src="https://skillicons.dev/icons?i=sqlite" />&nbsp;
           <img src="https://skillicons.dev/icons?i=supabase" />&nbsp;
