@@ -14,37 +14,13 @@
       <img src="https://render.gitanimals.org/lines/DapCodes?pet-id=657051833278790750" width="600" height="120" />
     </a>
 </p>
-<!-- ROW: Connect with me (kiri) + GitAnimals (kanan) -->
-<table>
-  <tr>
-    <!-- KIRI: CONNECT WITH ME -->
-    <td width="55%" valign="top" align="left">
-      <h3 align="left">Connect with me:</h3>
-      <p align="left">
-        <a href="https://linkedin.com/in/daffa-ramadhan-3b2239335" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DapCodes" height="30" width="40" />
-        </a>
-        <a href="https://instagram.com/d4pfft" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d4pfft" height="30" width="40" />
-        </a>
-        <a href="https://instagram.com/d4pfft" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d4pfft" height="30" width="40" />
-        </a>
-        <a href="https://instagram.com/d4pfft" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="d4pfft" height="30" width="40" />
-        </a>
-      </p>
-    </td>
-
-    <!-- KANAN: GITANIMALS -->
-    <td width="45%" valign="middle" align="right">
-      <a href="https://youtube.com/@deaafrizal" target="_blank">
-        <img src="https://render.gitanimals.org/lines/DapCodes?pet-id=657051833278790750" width="400" height="120" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/daffa-ramadhan-3b2239335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DapCodes" height="30" width="40" /></a>
+<a href="https://instagram.com/d4pfft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d4pfft" height="30" width="40" /></a>
+<a href="https://instagram.com/d4pfft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d4pfft" height="30" width="40" /></a>
+<a href="https://instagram.com/d4pfft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="d4pfft" height="30" width="40" /></a>
+</p>
 <br>
 
 <table border="0" style="border: none; border-collapse: collapse;">
