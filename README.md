@@ -28,7 +28,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DapCodes&layout=compact&theme=tokyonight" alt="Top Languages" width="100%"/>
       </p>
     </td>
-    <td valign="center" width="80%" style="border: none;">
+    <td valign="center" width="60%" style="border: none;">
       <h3 align="center">
         Currently worked on
       </h3>
