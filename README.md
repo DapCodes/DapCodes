@@ -31,10 +31,7 @@
     <td valign="center" width="60%" style="border: none;">
       <h3 align="center">Currently worked on</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=laravel" width="78" height="78" alt="Laravel" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=go" width="78" height="78" alt="Go" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=adonis" width="78" height="78" alt="AdonisJS" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=figma" width="78" height="78" alt="Figma" />
+        <img src="https://skillicons.dev/icons?i=laravel,go,adonis,figma&perline=2" width="240" alt="Tech stack" />
       </p>
     </td>
   </tr>
