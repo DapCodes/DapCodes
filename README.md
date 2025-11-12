@@ -5,7 +5,7 @@
   
 - 💬 Ask me about **Laravel, REST API development, and clean architecture**
   
-- 🧠 I'm also exploring **UI/UX design** and pixel-perfect front-end development
+- 🧠 I'm also exploring **UI/UX design** and pixel-perfect front-end dev
   
 - 📫 Feel free to contact me at: **daffaramadhan929@gmail.com**
   
