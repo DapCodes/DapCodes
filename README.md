@@ -52,3 +52,6 @@
   </tr>
 </table>
 <img src="https://raw.githubusercontent.com/DapCodes/DapCodes/output/snake.svg" alt="Snake animation" />
+
+![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=DapCodes&cover_image=true&show_offline=false&background_color=0d1117&interchange=true)
+
