@@ -29,16 +29,13 @@
       </p>
     </td>
     <td valign="center" width="60%" style="border: none;">
-      <h3 align="center">
-        Currently worked on
-      </h3>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=tailwind" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=figma" />&nbsp
-          <img src="https://skillicons.dev/icons?i=go" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=adonis" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=laravel" />&nbsp;
-        </p>
+      <h3 align="center">Currently worked on</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=laravel" width="78" height="78" alt="Laravel" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=go" width="78" height="78" alt="Go" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=adonis" width="78" height="78" alt="AdonisJS" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=figma" width="78" height="78" alt="Figma" />
+      </p>
     </td>
   </tr>
 </table>
