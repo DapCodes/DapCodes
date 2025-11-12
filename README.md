@@ -9,7 +9,7 @@
   
 - 📫 Feel free to contact me at: **daffaramadhan929@gmail.com**
 
-<p align="center">
+<p align="right">
     <a href="https://youtube.com/@deaafrizal">
       <img src="https://render.gitanimals.org/lines/DapCodes?pet-id=657051833278790750" width="600" height="120" />
     </a>
