@@ -28,27 +28,16 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DapCodes&layout=compact&theme=tokyonight" alt="Top Languages" width="100%"/>
       </p>
     </td>
-    <td valign="center" width="60%" style="border: none;">
+    <td valign="center" width="80%" style="border: none;">
       <h3 align="center">
-        Tech Stack
+        Currently worked on
       </h3>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=html" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=css" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=sass" />&nbsp;
           <img src="https://skillicons.dev/icons?i=tailwind" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=bootstrap" />&nbsp;  
-          <img src="https://skillicons.dev/icons?i=javascript" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=figma" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=php" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=figma" />&nbsp
           <img src="https://skillicons.dev/icons?i=go" />&nbsp;
           <img src="https://skillicons.dev/icons?i=adonis" />&nbsp;
           <img src="https://skillicons.dev/icons?i=laravel" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=sqlite" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=supabase" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=gitlab" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=git" />&nbsp;
         </p>
     </td>
   </tr>
