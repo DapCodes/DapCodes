@@ -18,7 +18,7 @@
 </p>
 <br>
 
-<table border="0" style="border: none; border-collapse: collapse;">
+<table border="0" style="border: none; border-collapse: collapse;" align="center">
   <tr style="border: none;">
     <td valign="center" width="50%" style="border: none;">
       <p align="center">
