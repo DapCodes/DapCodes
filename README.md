@@ -31,7 +31,7 @@
     <td valign="center" width="60%" style="border: none;">
       <h3 align="center">Currently worked on</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=laravel,go,adonis,figma&perline=2" width="240" alt="Tech stack" />
+        <img src="https://skillicons.dev/icons?i=laravel,go,adonis,figma&perline=2" width="200" alt="Tech stack" />
       </p>
     </td>
   </tr>
