@@ -20,7 +20,7 @@
 
 <table border="0" style="border: none; border-collapse: collapse;" align="center">
   <tr style="border: none;">
-    <td valign="center" width="50%" style="border: none;">
+    <td valign="center" width="40%" style="border: none;">
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=DapCodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%"/>
       </p>
@@ -28,7 +28,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DapCodes&layout=compact&theme=tokyonight" alt="Top Languages" width="100%"/>
       </p>
     </td>
-    <td valign="center" width="50%" style="border: none;">
+    <td valign="center" width="60%" style="border: none;">
       <h3 align="center">Currently worked on</h3>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=laravel,go,adonis,tailwind,react,figma&perline=3" width="270" alt="Tech stack" />
