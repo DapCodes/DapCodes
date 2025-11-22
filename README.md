@@ -34,4 +34,5 @@
     </td>
   </tr>
 </table>
+
 <img src="https://raw.githubusercontent.com/DapCodes/DapCodes/output/snake.svg" alt="Snake animation" />
