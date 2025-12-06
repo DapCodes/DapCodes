@@ -1,5 +1,5 @@
 <img align="right" alt="Coding" width="300" height="280" src="https://render.gitanimals.org/lines/DapCodes?pet-id=657051833278790750">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DapCodes&label=Profile%20views&color=0e75b6&style=flat" alt="DapCodes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DapCodes&label=Profile%20views&color=0e75b6&style=flat" alt="DapCodes" /> </p> 
 
 - 🌱 I'm currently learning **Laravel** and expanding into **JS Frameworks**
   
