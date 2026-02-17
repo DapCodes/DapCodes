@@ -9,9 +9,9 @@
 </h3>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=FFFFFF&width=275&lines=I'm+Daffa+Ramadhan&repeat=false&runonce=true" alt="Nama" style="vertical-align: middle;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=FFFFFF&width=275&lines=I'm&repeat=false&runonce=true" alt="Nama" style="vertical-align: middle;" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=6366F1&width=400&lines=%20;Fullstack+Developer;Product+Designer&startDelay=1800" alt="Typing SVG" style="vertical-align: middle;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=6366F1&width=400&lines=%20;Fullstack+Developer;Fullstack+Developer;Product+Designer&startDelay=100" alt="Typing SVG" style="vertical-align: middle;" />
 </p>
 
 <br>
