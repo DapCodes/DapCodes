@@ -10,12 +10,12 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=FFFFFF&width=275&lines=I'm+Daffa+Ramadhan&repeat=false&runonce=true" alt="Nama" style="vertical-align: middle;" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&width=400&lines=%20;Fullstack+Developer;Product+Designer;Building+Clean+Apps&startDelay=1000" alt="Typing SVG" style="vertical-align: middle;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&width=400&lines=%20;Fullstack+Developer;Product+Designer;Building+Clean+Apps&startDelay=500" alt="Typing SVG" style="vertical-align: middle;" />
 </p>
 
 <br>
 
-<table border="0" width="100%">
+<table border="0" width="100%" align="center">
   <tr>
     <td width="60%" valign="top">
       <h2>🚀 About Me</h2>
