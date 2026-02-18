@@ -4,7 +4,7 @@
 
 <h1 align="left">
   Hello 
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px">
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="60px">
   fellow developers
 </h1>
 
