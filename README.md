@@ -48,17 +48,13 @@
 
 <br>
 
-<table border="0" align="center" width="100%">
+<table align="center" border="0">
   <tr>
-    <td valign="top" width="50%">
-      <h3 align="left">GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=DapCodes&show_icons=true&theme=tokyonight" width="100%"/>
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DapCodes&layout=compact&theme=tokyonight" width="100%"/>
+    <td align="center" width="50%">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=DapCodes&theme=tokyonight&hide_border=true" width="100%" />
     </td>
-    <td valign="top" width="50%" style="padding-left: 20px;">
-      <h3 align="left">Tech Stack</h3>
-      <img src="https://skillicons.dev/icons?i=laravel,go,adonis,tailwind,javascript,figma,mysql,postman&perline=4" alt="Tech stack" />
+    <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=laravel,go,adonis,tailwind,javascript,figma,mysql,postman&perline=4" />
     </td>
   </tr>
 </table>
