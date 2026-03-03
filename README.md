@@ -8,7 +8,7 @@
   fellow developers
 </h1>
  
- 
+  
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=FFFFFF&width=65&lines=I'm+&repeat=false&runonce=true" alt="I am" style="vertical-align: middle;" />
   
