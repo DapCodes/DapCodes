@@ -1,13 +1,13 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=DapCodes&label=Profile%20views&color=0e75b6&style=flat" alt="DapCodes" />
 </p>
-
+ 
 <h1 align="left">
   Hello 
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="60px">
   fellow developers
 </h1>
- 
+
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=FFFFFF&width=65&lines=I'm+&repeat=false&runonce=true" alt="I am" style="vertical-align: middle;" />
   
