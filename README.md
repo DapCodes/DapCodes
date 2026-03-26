@@ -49,10 +49,10 @@
 
 <table align="center" border="0">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=DapCodes&theme=tokyonight&hide_border=true" width="100%" />
+    <td align="center" width="60%">
+      <img src="https://streak-stats.demolab.com?user=DapCodes&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="40%">
       <img src="https://skillicons.dev/icons?i=laravel,go,adonis,tailwind,javascript,figma,mysql,postman&perline=4" />
     </td>
   </tr>
