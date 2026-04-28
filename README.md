@@ -1,16 +1,15 @@
-<p align="right"> 
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=DapCodes&label=Profile%20views&color=0e75b6&style=flat" alt="DapCodes" />
-</p> 
-   
+</p>
+
 <h1 align="left">
-  Hello 
+  Hello
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="60px">
   fellow developers
 </h1>
- 
+
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=FFFFFF&width=65&lines=I'm+&repeat=false&runonce=true" alt="I am" style="vertical-align: middle;" />
-  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=6366F1&width=400&lines=Daffa+Ramadhan+Maulana;Fullstack+Developer;Product+Designer&startDelay=0" alt="Typing SVG" style="vertical-align: middle;" />
 </p>
 
@@ -31,11 +30,26 @@
         <li>📫 Contact: <strong>daffaramadhan929@gmail.com</strong></li>
       </ul>
       <br>
-      <h3>Connect with me ^^</h3>
-      <p>
-        <a href="https://linkedin.com/in/daffa-ramadhan-3b2239335" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="35" /></a>
-        <a href="https://instagram.com/d4pfft" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="25" width="35" /></a>
-      </p>
+     <h3>Connect with me ^^</h3>
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://linkedin.com/in/daffa-ramadhan-3b2239335" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="35" />
+      </a>
+    </td>
+    <td>
+      <a href="https://instagram.com/d4pfft" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="25" width="35" />
+      </a>
+    </td>
+    <td>
+      <a href="https://medium.com/@daffarm" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="25" width="35" />
+      </a>
+    </td>
+  </tr>
+</table>
     </td>
     <td width="40%" valign="middle" align="center">
       <div style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
@@ -47,10 +61,10 @@
 
 <br>
 
-<table align="center" border="0">
+<table align="center" border="0" width="100%">
   <tr>
     <td align="center" width="60%">
-      <img src="https://streak-stats.demolab.com?user=DapCodes&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+      <img src="https://streak-stats.demolab.com?user=DapCodes&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" />
     </td>
     <td align="center" width="40%">
       <img src="https://skillicons.dev/icons?i=laravel,go,adonis,tailwind,javascript,figma,mysql,postman&perline=4" />
