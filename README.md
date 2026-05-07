@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="60px">
   fellow developers
 </h1> 
-  
+ 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=FFFFFF&width=65&lines=I'm+&repeat=false&runonce=true" alt="I am" style="vertical-align: middle;" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=6366F1&width=400&lines=Daffa+Ramadhan+Maulana;Fullstack+Developer;Product+Designer&startDelay=0" alt="Typing SVG" style="vertical-align: middle;" />
