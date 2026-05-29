@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  A fresh graduate from a Vocational High School majoring in Software Engineering (RPL), with over 1 year of professional experience as a software developer, specializing in full-stack web development. Passionate about learning new technologies and continuously expanding technical skills. Enthusiastic about exploring other fields beyond web and mobile development, including IoT and server infrastructure.
+  A fresh graduate from a Vocational High School majoring in Software Engineering (RPL), with over 3 year of professional experience as a software developer, specializing in full-stack web development. Passionate about learning new technologies and continuously expanding technical skills. Enthusiastic about exploring other fields beyond web and mobile development, including IoT and server infrastructure.
 </p>
 
 <br>
