@@ -17,7 +17,7 @@
 
 **Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,go,php,git,bash,vscode,nextjs,html,react,vue,angular,jquery,css,sass,tailwind,bootstrap,materialui,svelte,vite,nodejs,express,mongodb,mysql,postgres,firebase,supabase,wordpress,laravel,flutter,arduino,docker,linux&theme=dark&perline=17" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,go,php,git,bash,vscode,nextjs,html,react,vue,angular,jquery,css,sass,tailwind,bootstrap,materialui,svelte,vite,nodejs,express,mongodb,mysql,postgres,firebase,supabase,wordpress,laravel,flutter,arduino,docker,linux&theme=dark&perline=18" />
 
 <div align="center">
 
