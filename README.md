@@ -1,20 +1,26 @@
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=DapCodes&label=Profile%20views&color=0e75b6&style=flat" alt="DapCodes" />
+<div align="left">
+
+<img src="https://render.gitanimals.org/lines/dapcodes?pet-id=657051833278790750" width="220" align="right" alt="GitHub Pet" />
+
+<h3>Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="26px"> fellow developers</h3>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&color=FFFFFF&width=48&lines=I'm+&repeat=false" style="vertical-align:middle"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&color=6366F1&width=380&lines=Daffa+Ramadhan+Maulana;Fullstack+Developer;Product+Designer" style="vertical-align:middle"/>
 </p>
 
-<div>
-  <img src="https://render.gitanimals.org/lines/dapcodes?pet-id=657051833278790750" width="300" align="right" alt="GitHub Pet" style="margin-left: 15px; margin-bottom: 10px;" />
+<p>A <strong>FullStack Engineer</strong> with 3+ years of experience in full-stack web development.<br/>Passionate about web, mobile, IoT, and server infrastructure.</p>
 
-  <h1 align="left" style="border: none; margin-top: 0;">
-    Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px"> fellow developers
-  </h1>
-     
-  <p align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=FFFFFF&width=65&lines=I'm+&repeat=false&runonce=true" alt="I am" style="vertical-align: middle;" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=6366F1&width=400&lines=Daffa+Ramadhan+Maulana;Fullstack+Developer;Product+Designer&startDelay=0" alt="Typing SVG" style="vertical-align: middle;" />
-  </p>
+<img src="https://komarev.com/ghpvc/?username=DapCodes&label=Profile+views&color=6366F1&style=flat" align="right" />
 
-  <p align="left">
-    A FullStack Engineer with 3 years of professional experience as a software developer, specializing in full-stack web development. Passionate about learning new technologies and continuously expanding technical skills. Enthusiastic about exploring other fields beyond web and mobile development, including IoT and server infrastructure.
-  </p>
+</div>
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,go,php,git,bash,vscode,nextjs,html,react,vue,angular,jquery,css,sass,tailwind,bootstrap,materialui,svelte,vite,nodejs,express,mongodb,mysql,postgres,firebase,supabase,wordpress,laravel,flutter,arduino,docker,linux&theme=dark&perline=17" />
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DapCodes&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" height="140" />
+
 </div>
