@@ -2,7 +2,7 @@
  
 <div align="left">
 <h3>Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="26px"> fellow developers</h3>
-<p>
+<p> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&color=FFFFFF&width=48&lines=I'm+&repeat=false" style="vertical-align:middle"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&color=6366F1&width=380&lines=Daffa+Ramadhan+Maulana;Fullstack+Developer;Product+Designer" style="vertical-align:middle"/>
 </p>
