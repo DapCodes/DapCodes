@@ -2,9 +2,9 @@
 <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z5NHJnc3ljNjA1a3Jxc3lhb2JueDVxaHhkZTdsZ2FkczV0bzA0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/INb0QlaZKflBQZJOho/giphy.gif" width="35%" align="right" alt="GitHub Pet" /> -->
 
 <!-- Bagian Teks di sisi kiri (Menggunakan font size untuk menghindari garis bawah default GitHub) -->
-<h2>
-  <font size="7"><b>Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="45px" style="vertical-align: middle;"> fellow developers</b></font>
-</h2>
+<h1>
+  <font size="12"><b>Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="45px" style="vertical-align: middle;"> fellow developers</b></font>
+</h1>
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&color=FFFFFF&width=55&lines=I'm+&repeat=false" style="vertical-align: middle;" />
