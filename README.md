@@ -1,13 +1,20 @@
-<img src="https://render.gitanimals.org/lines/dapcodes?pet-id=657051833278790750" width="100%" align="right" alt="GitHub Pet" /> 
- 
-<div align="left">
-<h3>Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="26px"> fellow developers</h3>
-<p> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&color=FFFFFF&width=48&lines=I'm+&repeat=false" style="vertical-align:middle"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&color=6366F1&width=380&lines=Daffa+Ramadhan+Maulana;Fullstack+Developer;Product+Designer" style="vertical-align:middle"/>
+<!-- Bagian Gitanimals ditempatkan di atas agar mengapung ke sisi kanan -->
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2U1dng4YzJ4NDI2aXBmOWtiaHk5am80dmZ3ZWRxMmw2ZWVzaHN3NiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/X8yTlyTv2QvIX1H9nH/giphy.gif" width="35%" align="right" alt="GitHub Pet" />
+
+<!-- Bagian Teks di sisi kiri (Menggunakan font size untuk menghindari garis bawah default GitHub) -->
+<h2>
+  <font size="7"><b>Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="45px" style="vertical-align: middle;"> fellow developers</b></font>
+</h2>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&color=FFFFFF&width=55&lines=I'm+&repeat=false" style="vertical-align: middle;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&color=6366F1&width=380&lines=Daffa+Ramadhan+Maulana;Fullstack+Developer;Product+Designer" style="vertical-align: middle;" />
 </p>
 
-<p>A <strong>FullStack Engineer</strong> with 3+ years of experience in full-stack web development.<br/>Passionate about web, mobile, IoT, and server infrastructure.</p>
+<p>A dedicated Full-Stack Engineer with over 3 years of experience in building scalable and high-performing web applications. Driven by a strong passion for tech innovation, I actively expand my expertise across mobile development, IoT solutions, and robust server infrastructure. I thrive on turning complex problems into clean, efficient, and maintainable code..</p>
+
+<!-- Tag pembersih agar konten di bawah bagian ini tidak ikut berantakan ke samping -->
+<br clear="all" />
 
 <img src="https://komarev.com/ghpvc/?username=DapCodes&label=Profile+views&color=6366F1&style=flat" align="right" />
 
