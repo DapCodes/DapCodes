@@ -1,5 +1,5 @@
 <!-- Bagian Gitanimals ditempatkan di atas agar mengapung ke sisi kanan -->
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2U1dng4YzJ4NDI2aXBmOWtiaHk5am80dmZ3ZWRxMmw2ZWVzaHN3NiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/X8yTlyTv2QvIX1H9nH/giphy.gif" width="35%" align="right" alt="GitHub Pet" />
+<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z5NHJnc3ljNjA1a3Jxc3lhb2JueDVxaHhkZTdsZ2FkczV0bzA0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/INb0QlaZKflBQZJOho/giphy.gif" width="35%" align="right" alt="GitHub Pet" /> -->
 
 <!-- Bagian Teks di sisi kiri (Menggunakan font size untuk menghindari garis bawah default GitHub) -->
 <h2>
