@@ -1,7 +1,3 @@
-<!-- Bagian Gitanimals ditempatkan di atas agar mengapung ke sisi kanan -->
-<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z5NHJnc3ljNjA1a3Jxc3lhb2JueDVxaHhkZTdsZ2FkczV0bzA0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/INb0QlaZKflBQZJOho/giphy.gif" width="35%" align="right" alt="GitHub Pet" /> -->
-
-<!-- Bagian Teks di sisi kiri (Menggunakan font size untuk menghindari garis bawah default GitHub) -->
 <h1>
   <font size="12"><b>Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="45px" style="vertical-align: middle;"> fellow developers</b></font>
 </h1>
@@ -13,7 +9,6 @@
 
 <p>A dedicated Full-Stack Engineer with over 3 years of experience in building scalable and high-performing web applications. Driven by a strong passion for tech innovation, I actively expand my expertise across mobile development, IoT solutions, and robust server infrastructure. I thrive on turning complex problems into clean, efficient, and maintainable code..</p>
 
-<!-- Tag pembersih agar konten di bawah bagian ini tidak ikut berantakan ke samping -->
 <br clear="all" />
 
 <img src="https://komarev.com/ghpvc/?username=DapCodes&label=Profile+views&color=6366F1&style=flat" align="right" />
