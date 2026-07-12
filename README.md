@@ -18,3 +18,9 @@
 **Tech Stack**
 
 <img src="https://skillicons.dev/icons?i=js,ts,py,java,go,php,git,bash,vscode,nextjs,html,react,vue,angular,jquery,css,sass,tailwind,bootstrap,materialui,svelte,vite,nodejs,express,mongodb,mysql,postgres,firebase,supabase,wordpress,laravel,flutter,arduino,docker,linux,figma&theme=dark&perline=18" />
+
+<br><br>
+<a href="https://github.com/dapcodes">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dapcodes&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2ea44f&line=26a5e4&point=ea4335&area=true&area_color=2ea44f" alt="activity"/>
+</a>
+
