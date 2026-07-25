@@ -1,4 +1,4 @@
-<h1>
+<h1> 
   <font size="12"><b>Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="45px" style="vertical-align: middle;"> fellow developers</b></font>
 </h1> 
 <img src="https://komarev.com/ghpvc/?username=DapCodes&label=Profile+views&color=6366F1&style=flat" align="right" /> 
