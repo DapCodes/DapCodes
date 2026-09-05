@@ -19,7 +19,7 @@
 
 <br clear="all" />
 
-<table width="100%">
+<!-- <table width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
       <a href="https://github.com/dapcodes">
@@ -30,4 +30,4 @@
       <img src="https://streak-stats.demolab.com?user=DapCodes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="100%" alt="streak graph"/>
     </td>
   </tr>
-</table>
+</table> -->
