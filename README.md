@@ -19,15 +19,5 @@
 
 <br clear="all" />
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/dapcodes">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dapcodes&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2ea44f&line=26a5e4&point=ea4335&area=true&area_color=2ea44f" width="100%" alt="activity graph"/>
-      </a>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://streak-stats.demolab.com?user=DapCodes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="100%" alt="streak graph"/>
-    </td>
-  </tr>
-</table>
+<img src="https://streak-stats.demolab.com?user=DapCodes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="100%" alt="streak graph"/>
+    
