@@ -25,4 +25,13 @@
 ## ⏱️ weekly coding activity
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript       7 hrs                 ████████▒░░░░░░░░░░░░░░░░   33.36 %
+PHP              6 hrs 39 mins         ████████░░░░░░░░░░░░░░░░░   31.66 %
+Bash             1 hr 49 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+Blade Template   1 hr 43 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+Other            1 hr 42 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+```
+
 <!--END_SECTION:waka-->
