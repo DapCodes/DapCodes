@@ -16,7 +16,3 @@
 **Tech Stack**
 
 <img src="https://skillicons.dev/icons?i=js,ts,py,java,go,php,git,bash,vscode,nextjs,html,react,vue,angular,jquery,css,sass,tailwind,bootstrap,materialui,svelte,vite,nodejs,express,mongodb,mysql,postgres,firebase,supabase,wordpress,laravel,flutter,arduino,docker,linux,figma&theme=dark&perline=18" />
-
-<br clear="all" />
-
-<img src="https://streak-stats.demolab.com?user=DapCodes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="100%" alt="streak graph"/>
